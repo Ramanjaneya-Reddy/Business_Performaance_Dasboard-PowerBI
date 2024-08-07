@@ -1,4 +1,4 @@
-# Business_Performaance_Dasboard-PowerBI
+# Business_Performance_Dashboard-PowerBI
 
 This is a Power BI project on how to create an end to end dashboard within Power BI software for finance business to visualize business related KPIs and visualizations. This dashboard covers a lot of key dashboard design and development techniques of Power BI. Some of the key topics are professional dashboard design, yoy performance metrics, conditional formatting, dax expression for trend comparison and finally a lot of formatting of KPIs, table, line chart, bar chart, slicer and overall dashboard background for a professional look and feel. This Power BI KPI performance dashboard is developed from scratch with the finance dataset.
 
